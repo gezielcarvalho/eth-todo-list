@@ -1,5 +1,14 @@
 # Ethereum Todo List DApp
 
+> **Repository status:** historical blockchain-learning project for a local development network. It is not a supported public DApp, production smart contract, or wallet-facing service.
+
+## Current-state documentation
+
+- [Overview and scope](docs/README.md)
+- [Learning charter](docs/project-charter.md)
+- [Contract and local-chain boundaries](docs/architecture.md)
+- [Delivery and quality handoff](docs/delivery-and-quality.md)
+
 A decentralized application (DApp) for managing a todo list on the Ethereum blockchain. This project demonstrates how to build a full-stack blockchain application using Solidity smart contracts, Truffle framework, and Web3.js.
 
 ## Features
